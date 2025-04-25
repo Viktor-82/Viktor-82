@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Viktor-82
-- 👀 I’m interested in JS, TypeScript
-- 🌱 I’m currently learning HTML&CSS; JS, React, React Native & tools to help work with the project
-- 💞️ I’m looking to collaborate on any international project that helps make people's lives better. I think this is a great motivation and benefit to society.
+- 👨‍💻 I actively develop in JavaScript and TypeScript
+- ⚙️ I work with HTML/CSS, React, React Native, backend services, and databases like PostgreSQL and MongoDB
+- 🌍 I'm open to collaborating on international projects that aim to solve real problems and bring value to people
 - 📫 How to reach me email: f49411151@gmail.com
 
 <!---
